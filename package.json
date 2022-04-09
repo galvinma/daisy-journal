@@ -27,7 +27,7 @@
     "material-ui-next-pickers": "0.0.15",
     "material-ui-pickers": "^2.0.1",
     "material-ui-time-picker": "^1.0.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.21",
     "mongoose": "^5.7.5",
     "nodemailer": "^4.6.8",
